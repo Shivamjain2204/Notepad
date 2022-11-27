@@ -36,7 +36,7 @@ const Signup = (props) => {
 
   return (
     <div>
-        <h2>Create an account to use Notepad</h2>
+        <h2> Create an account to use Notepad </h2>
 
         <form onSubmit={handleSubmit}>
             <div className="mb-3">
